@@ -15,15 +15,15 @@ For today's lab assignment, you will work independently to create a personal por
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
 ```
-Number and name of feature: ________________________________
+Number and name of feature: refactoring________________________________
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2 hours
 
-Start time: _____
+Start time:1pm
 
-Finish time: _____
+Finish time:330pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2.5 hours
 ```
 
 Add this information to your README.
@@ -77,7 +77,7 @@ Then the content should be unique and reflect the skills and personality of the 
   - Next to the header image, add your name and a short, 2-3 word title.
   - In the Intro section, add a personal headline. This should be the same as or similar to your headline on your LinkedIn profile.
   - In the Portfolio section, state what you are excited about in tech. Add links to projects and include placeholders for future 301 and 401 projects. If you would like, you can add links to sites such as LinkedIn and GitHub here, or social sites.
-  - In the About Me section, add your personal pitch and banner photo. 
+  - In the About Me section, add your personal pitch and banner photo. x
 - Add you own color scheme and Google fonts.
 - Change the content and images to reflect your personal preferences. If you are using online images, make sure they are licensed for free, commercial use. For example, [Unsplash](https://unsplash.com/) has a nice variety of free images. 
 - Update the list of social media icons with your links using icons for your favorite social media sites from IcoMoon or Font Awesome.

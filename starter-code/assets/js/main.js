@@ -121,3 +121,20 @@
 				});
 
 })(jQuery);
+
+
+let carousel = 1;
+
+const bannerPic = () => {
+	let banner = $('#main > section.one');
+	banner.removeClass(`background${carousel}`);
+	carousel++;
+	if (carousel > 5){
+		carousel = 1;
+	}
+	banner.addClass(`background${carousel}`);
+}
+
+window.setInterval(function(){
+	bannerPic();
+  }, 10000);

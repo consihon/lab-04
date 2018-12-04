@@ -1,8 +1,6 @@
 @import url("font-awesome.min.css");
 
 
-
-
 /* Image */
 
 	.image {
@@ -32,7 +30,7 @@
 		}
 
 		.image.featured {
-			display: block;
+            display: block;
 			width: 100%;
 			margin: 0 0 2em 0;
 		}
@@ -416,7 +414,7 @@
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color:rgb(30, 63, 43);
 					}
 
 /* Footer */
@@ -495,8 +493,29 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/head.png");
-			}
+            }   
+
+            .background1{
+                background-image:url(../../images/about.jpg) !important;
+            }
+            
+            .background2{
+                background-image:url(../../images/about2.jpg) !important;
+            }
+            
+            .background3{
+                background-image:url(../../images/about3.jpg) !important;
+            }
+            
+            .background4{
+                background-image:url(../../images/about4.jpg) !important;
+            }
+            
+            .background5{
+                background-image:url(../../images/about5.jpg) !important;
+            }
+            
+
 
 			#main > section.two {
 				background-color: #f5fafa;
